@@ -5,4 +5,6 @@ var jsonData = {
 }
 
 var output = document.getElementById('output');
+
 output.innerHTML = jsonData.firstName + ' ' + jsonData.lastName;
+
