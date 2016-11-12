@@ -1,0 +1,8 @@
+#output {
+    font-size:24px;
+    background-color: bisque;
+}
+#container {
+    width: 1140px;
+    margin: 0 auto;
+}
