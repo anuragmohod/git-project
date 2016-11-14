@@ -100,5 +100,4 @@ user2: jsonData2}
 console.log(users);
 var output = document.getElementById('output');
 
-output.innerHTML = users.user2.firstName + ' ' + users.user2.lastName + ' ' + users.user2.phoneNumbers[1].type + ' ' + users.user2.address.city;
-
+output.innerHTML = 'nothing';
