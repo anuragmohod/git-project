@@ -44,7 +44,7 @@ var jsonData =  {
 
     "spouse": null
 
-}
+};
 
 console.log(jsonData);
 var output = document.getElementById('output');
